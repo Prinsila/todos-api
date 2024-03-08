@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d7ab891a-9901-4e14-afd5-56ed5b8fd9c4",
+    "title": "Example Todo",
+    "description": "This is an example todo",
+    "createdAt": "2024-03-08T22:29:26.187Z",
+    "updatedAt": "2024-03-08T22:29:26.187Z"
+  },
+  {
+    "id": "96463bce-6ed3-4146-a2eb-e1086586c50c",
+    "title": "Todo 1",
+    "description": "This is todo number 1",
+    "createdAt": "2024-03-08T22:57:20.323Z",
+    "updatedAt": "2024-03-08T22:57:20.323Z"
+  },
+  {
+    "id": "89670927-557e-4ebc-a6b0-763cd0200f15",
+    "title": "Todo 2",
+    "description": "This is todo number 2",
+    "createdAt": "2024-03-08T22:58:26.985Z",
+    "updatedAt": "2024-03-08T22:58:26.985Z"
+  },
+  {
+    "id": "804d408b-1a40-46bd-a8cb-5405b0455788",
+    "title": "Todo 3",
+    "description": "This is todo number 3",
+    "createdAt": "2024-03-08T22:59:33.440Z",
+    "updatedAt": "2024-03-08T22:59:33.440Z"
+  }
+]
